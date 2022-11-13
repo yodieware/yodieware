@@ -1,3 +1,4 @@
+-- https://www.roblox.com/games/10726371567/Find-The-Simpsons-171 --
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
