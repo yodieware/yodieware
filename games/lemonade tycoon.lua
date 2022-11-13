@@ -1,3 +1,4 @@
+-- https://www.roblox.com/games/10675042838/Lemonade-Tycoon-OBBIES --
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
