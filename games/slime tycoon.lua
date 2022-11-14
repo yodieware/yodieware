@@ -1,3 +1,4 @@
+-- https://www.roblox.com/games/10675066724/Slime-Tower-Tycoon-UPDATE-5-5 --
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
