@@ -14,4 +14,6 @@ elseif game.PlaceId == 10675042838 then
     loadstring(game:HttpsGet("https://raw.githubusercontent.com/yodieware/yodieware/main/games/lemonade%20tycoon.lua"))()
 elseif game.PlaceId == 10675042838 then
     loadstring(game:HttpsGet("https://raw.githubusercontent.com/yodieware/yodieware/main/games/slime%20tycoon.lua"))()
+elseif game.PlaceId == 9825515356 then
+    loadstring(game:HttpsGet("https://raw.githubusercontent.com/yodieware/yodieware/main/games/hood%20customs.lua"))()
 end
